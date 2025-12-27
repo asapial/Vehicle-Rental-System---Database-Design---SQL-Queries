@@ -84,7 +84,7 @@ Stores vehicle booking history.
 ---
 
 ## Author
-**Abu Syeed**  
+**Md Abu Syeed Abdullah**  
 Vehicle Rental SQL Project
 
 
